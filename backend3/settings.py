@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
 ]
 
+
 AUTH_USER_MODEL = 'main.CustomUser'
 
 MIDDLEWARE = [
